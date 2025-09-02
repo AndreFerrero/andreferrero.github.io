@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, University of Montpellier, 2025-2028 (expected)
+* M.Sc. in Statistical Sciences, University of Bologna, 2023-2025
+* B.Sc. in Economics and Statistics, University of Turin, 2020-2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March - July 2025: Research Intern for Master Thesis
+  * Statify Team - Inria Center at the University Grenoble Alpes
+  * Project: Bayesian Nonparametric Models for Sparse Bipartite Networks
+  * Supervisor: Julyan Arbel, Tâm Le Minh
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Python
+* Git
 
 Publications
 ======

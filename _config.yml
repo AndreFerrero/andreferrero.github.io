@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Foto.jpg"
   name             : "Andrea Ferrero" # Your name
   pronouns         : # example: "she/her"  
-  bio              : "Statistician"
-  location         : "Grenoble, France"
-  employer         : "INRIA"
+  bio              : "Statistics PhD student"
+  location         : "Montpellier, France"
+  employer         : "Inria"
   uri              : # URL
   email            : "andrea.ferrero101201@gmail.com" 
 
@@ -217,10 +217,10 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
