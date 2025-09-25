@@ -7,6 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-PhD student in Statistics at the University of Montpellier (IMAG) and Lemon Team - Inria, under the supervision of Gwladys Toulemonde and Nicolas Meyer. The project is joint with the University of Sherbrooke, co-supervised by Klaus Herrmann and Éric Marchand.
-
-My main research interests are extreme value theory and Bayesian inference.
+I am first year PhD student in Statistics at the University of Montpellier (IMAG), under the co-supervision of Gwladys Toulemonde and Nicolas Meyer. My PhD topic is on inference for extreme value data in a univariate dependent setting.
