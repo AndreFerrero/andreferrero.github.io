@@ -8,8 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "CV"
-    external_url: "/files/cv_ferrero.pdf"
+  - title: '<a href="/files/cv_ferrero.pdf" target="_blank" rel="noopener">CV</a>'
 
   # - title: "Publications"
   #   url: /publications/
