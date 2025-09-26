@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    url: "/files/cv_ferrero.pdf"
+    external_url: "/files/cv_ferrero.pdf"
 
   # - title: "Publications"
   #   url: /publications/
