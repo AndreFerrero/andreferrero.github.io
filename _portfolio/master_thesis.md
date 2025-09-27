@@ -5,7 +5,7 @@ permalink: /portfolio/master-thesis/
 excerpt: '<a href="/files/thesis_ferrero.pdf" target="_blank">Download the full Master Thesis</a>'
 ---
 This thesis is the result of the work carried out during my research internship at Inria in Grenoble, supervised by [Julyan Arbel](https://www.julyanarbel.com/){:target="_blank"} and 
-[Tâm Le Minh](https://tam-leminh.github.io/){:target="_blank"} ([Statify team](https://team.inria.fr/statify/){:target="_blank"}). Our worked aimed at studying how some of the famous Bayesian Nonparametric concepts, such as the Pitman-Yor and the Dirichlet process, can be used to extend existing theory to the case of bipartite networks.
+[Tâm Le Minh](https://tam-leminh.github.io/){:target="_blank"} ([Statify team](https://team.inria.fr/statify/){:target="_blank"}). Our work aimed at studying how some of the famous Bayesian Nonparametric concepts, such as the Pitman-Yor and the Dirichlet process, can be used to extend existing theory to the case of bipartite networks.
 
 # Abstract
 Many real world networks are sparse, containing relatively few connections compared to the number of possible ones. Recent developments in network theory have introduced edge exchangeable models (Cai et al., 2016; Crane and Dempsey, 2018), which are closely connected to Bayesian Nonparametrics and have been extensively studied in the unipartite setting, in which edges may connect any pair of nodes. A key advantage of these models is their ability to capture sparsity while preserving a simple yet flexible structure.
