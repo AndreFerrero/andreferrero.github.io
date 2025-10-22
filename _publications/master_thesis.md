@@ -23,4 +23,4 @@ We further develop a fully Bayesian estimation procedure for the model parameter
 
 **Keywords:** Sparse Networks, Edge Exchangeability, Bayesian Nonparametrics, Pitman-Yor Process, Bipartite Networks, Bayesian Inference
 
-**[Download the full Master Thesis](/files/master_thesis.pdf){:target="_blank"}**
+**[Download Master Thesis](/files/master_thesis.pdf){:target="_blank"}**
